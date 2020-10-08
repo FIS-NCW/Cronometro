@@ -8,31 +8,52 @@
         <h4>Descripción del problema</h4>
         <p>Desarrollar un producto de software que tenga las funcionalidades de cronómetro y temporizador en formato
             (hh:mm:ss). <br>
-        <dl>
-            <dt>
-                El cronómetro debe tener las siguientes funcionalidades:
-            </dt>
-            <dd>
-                <ul>
-                    <li>Iniciar el tiempo</li>
-                    <li>Registrar hasta diez tiempos</li>
-                    <li>Parar el cronómetro</li>
-                    <li>Reiniciar el tiempo</li>
-                </ul>
-            </dd>
+        </p>
+    </li>
 
-  </dl>
-  </p>
-  </li>
+<li>
+<h4>Planeación y diseño</h4>
+<dl>
+<dt>Levantamiento de requerimientos</dt>
+<dd>
+    <dl>
+        <dt>
+            El cronómetro debe tener las siguientes funcionalidades:
+        </dt>
+        <dd>
+            <ul>
+                <li>Iniciar el tiempo</li>
+                <li>Registrar hasta diez tiempos</li>
+                <li>Pausar tiempo</li>
+                <li>Reanudar tiempo</li>
+                <li>Mostrar tiempos almacenados</li>
+                <li>Reiniciar el tiempo</li>
+            </ul>
+        </dd>
 
-  <li>Planeación y diseño
-      <dl>
-          <dt>Levantamiento de requerimientos</dt>
-          <dd>Definición de los requerimientos</dd>
-      </dl>
-  </li>
+<dt>El temporizador debe tener las siguientes funcionalidades:</dt>
+<dd>
+    <ul>
+        <li>Setear el tiempo que ingrese el usuario</li>
+        <li>Hacer cuenta regresiva hasta que se llegue a 00:00:00</li>
+        <li>Pausar tiempo</li>
+        <li>Reanudar tiempo</li>
+        <li>Notificar cuando finalice la cuenta regresiva con un sonido</li>
+        <li>Reiniciar el tiempo</li>
+    </ul>
+</dd>
+</dl>
+</dd>
+<dt>Diagramas del modelo</dt>
+<dd>
+    Diagrama de casos de uso: <br>
+    <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/49535609/95492084-2f4cba00-0960-11eb-923c-45237f66e708.jpg" alt="Hola">
+</dd>
 
-  <li>Cronograma</li>
-  <li>Recursos</li>
-  <li>Costo del proyecto</li>
+</dl>
+</li>
+
+<li>Cronograma</li>
+<li>Recursos</li>
+<li>Costo del proyecto</li>
 </ol>
