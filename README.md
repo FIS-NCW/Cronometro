@@ -58,8 +58,8 @@
 </li>
 
 <li><h4>Cronograma</h4></li>
-    <p> El cronograma para el desarrollo del cronometro planteado es el siguiente:
-    </p>
+    <p> El cronograma para el desarrollo del cronometro planteado es el siguiente:</p>
+    <img style="width: 500px; height: 600px;" src="https://user-images.githubusercontent.com/49535609/95624311-4660da00-0a3c-11eb-8082-4c08947645e2.jpg" alt="Cronograma">
 <li>Recursos</li>
 <li>Costo del proyecto</li>
 </ol>
