@@ -59,7 +59,7 @@
 
 <li><h4>Cronograma</h4></li>
     <p> El cronograma para el desarrollo del cronometro planteado es el siguiente:</p>
-    <img style="width: 500px; height: 600px;" src="https://user-images.githubusercontent.com/61924044/95666887-0c6b0300-0b24-11eb-86b3-59ecff523583.PNG" alt="Cronograma">
+    <img style="width: 500px; height: 600px;align="centre"" src="https://user-images.githubusercontent.com/61924044/95666887-0c6b0300-0b24-11eb-86b3-59ecff523583.PNG" alt="Cronograma">
     <img style="width: 500px; height: 600px;" src="https://user-images.githubusercontent.com/61924044/95666860-a4b4b800-0b23-11eb-94d5-938243dca688.png" alt="Cronograma">
 <li><h4>Recursos</h4></li>
 <li><h4>Costo del proyecto</h4></li>
