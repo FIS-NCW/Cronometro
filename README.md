@@ -58,7 +58,7 @@
 </li>
 
 <li><h4>Cronograma</h4></li>
-    <p> El cronograma para la elaboracion del cronometro es el siguiente:
+    <p> El cronograma para el desarrollo del cronometro planteado es el siguiente:
     </p>
 <li>Recursos</li>
 <li>Costo del proyecto</li>
