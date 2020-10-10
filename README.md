@@ -58,6 +58,8 @@
 </li>
 
 <li>Cronograma</li>
+    <p> El cronograma para la elaboracion del cronometro es el siguiente:
+    </p>
 <li>Recursos</li>
 <li>Costo del proyecto</li>
 </ol>
