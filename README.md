@@ -62,4 +62,5 @@
     <img style="width: 500px; height: 600px;" src="https://user-images.githubusercontent.com/49535609/95624311-4660da00-0a3c-11eb-8082-4c08947645e2.jpg" alt="Cronograma">
 <li><h4>Recursos</h4></li>
 <li><h4>Costo del proyecto</h4></li>
+<p> Se plantea el desarrollo y elaboracion del proyecto en 14 dias, con 8 horas de trabajo diarias. Se presupuesta un salario mensual de 2 smmlv por trabajador, se propone un costopor trabajador del proyecto en 1 smmlv, dada la duracion del proyecto y lo planeado a pagar. </p>
 </ol>
