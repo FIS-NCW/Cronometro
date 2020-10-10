@@ -57,7 +57,7 @@
 </dl>
 </li>
 
-<li>Cronograma</li>
+<li><h4>Cronograma</h4></li>
     <p> El cronograma para la elaboracion del cronometro es el siguiente:
     </p>
 <li>Recursos</li>
