@@ -70,6 +70,6 @@
 <li><h4>Recursos</h4></li>
 <p>Para la realizacion del proyecto se programo en el lenguaje de java en el entorno netbeans, se usaron las librerias de awt para eventos (actionlistener,actionevent) y Swing para interfaces.</p>
 <li><h4>Costo del proyecto</h4></li>
-<p>Se plantea el desarrollo y elaboracion del proyecto en 14 dias, con 8 horas de trabajo diario, se presupuesta un pago de 2 smmlv por trabajador, con 3 trabajadores inicialmente.<br>
+<p>Se plantea el desarrollo y elaboracion del proyecto en 14 dias, con 8 horas de trabajo diario, se presupuesta un pago de 2 smmlv por trabajador (en total son 3 trabajadores).<br>
     Como el proyecto abarca una duracion de 15 dias (aproximadamente), se espera que cada trabajador reciba 1 smmlv. A dia de hoy, en total el proyecto costaria 2'700.000 </p>
 </ol>
