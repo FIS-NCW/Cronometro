@@ -46,17 +46,17 @@
 </dd>
 <dt>Diagramas del modelo</dt>
 <dd>
-    Diagrama de casos de uso: <br>
+    <h4>Diagrama de casos de uso: <br></h4>
     <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/49535609/95492084-2f4cba00-0960-11eb-923c-45237f66e708.jpg" alt="Hola">
 </dd>
  <dd>
-    Diagrama de clases: <br>
+    <h4>Diagrama de clases: <br></h4>
     <img style="width: 500px; height: 600px;" src="https://user-images.githubusercontent.com/49535609/95624311-4660da00-0a3c-11eb-8082-4c08947645e2.jpg" alt="Diagrama de clases">
     </dd>
 <dd>
-    Diagrama de secuencias: <br>
+    <h4>Diagrama de secuencias: <br></h4><br>
     <p>Cronometro:</p>
-    <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/61924044/95811595-387bb500-0cd9-11eb-8131-4403074eab9a.png" alt="Hola">
+    <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/61924044/95811595-387bb500-0cd9-11eb-8131-4403074eab9a.png" alt="Hola"><br>
     <p>Temporizador:</p>
     <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/61924044/95811676-6b25ad80-0cd9-11eb-8735-80777db8303d.png" alt="Hola">
 </dd>
