@@ -68,6 +68,7 @@
     <img style="width: 500px; height: 600px;" src="https://user-images.githubusercontent.com/61924044/95666887-0c6b0300-0b24-11eb-86b3-59ecff523583.PNG" alt="Cronograma">
     <img style="width: 500px; height: 600px;" src="https://user-images.githubusercontent.com/61924044/95666860-a4b4b800-0b23-11eb-94d5-938243dca688.png" alt="Cronograma">
 <li><h4>Recursos</h4></li>
+<p>Para la realizacion del proyecto se programo en el lenguaje de java en el entorno netbeans, se usaron las librerias de awt para eventos (actionlistener,actionevent) y Swing para interfaces.</p>
 <li><h4>Costo del proyecto</h4></li>
 <p> Se plantea el desarrollo y elaboracion del proyecto en 14 dias, con 8 horas de trabajo diario, se presupuesta un pago de 2 smmlv por trabajador.<br>
     Como el proyecto abarca una duracion de 15 dias (aproximadamente), se espera que cada trabajador reciba 1 smmlv. A dia de hoy, en total el proyecto costaria 2'700.000 </p>
