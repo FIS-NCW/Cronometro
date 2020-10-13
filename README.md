@@ -53,7 +53,13 @@
     Diagrama de clases: <br>
     <img style="width: 500px; height: 600px;" src="https://user-images.githubusercontent.com/49535609/95624311-4660da00-0a3c-11eb-8082-4c08947645e2.jpg" alt="Diagrama de clases">
     </dd>
-
+<dd>
+    Diagrama de secuencias: <br>
+    <p>Cronometro:</p>
+    <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/61924044/95811595-387bb500-0cd9-11eb-8131-4403074eab9a.png" alt="Hola">
+    <p>Temporizador:</p>
+    <img style="width: 700px; height: 400px;" src="https://user-images.githubusercontent.com/61924044/95811676-6b25ad80-0cd9-11eb-8735-80777db8303d.png" alt="Hola">
+</dd>
 </dl>
 </li>
 
